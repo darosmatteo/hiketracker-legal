@@ -1,3 +1,4 @@
+<style> header { display: none; } </style>
 # **Privacy Policy**
 
 **Effective Date:** April 23, 2026  
