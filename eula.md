@@ -1,3 +1,4 @@
+<style> header { display: none; } </style>
 # **End User License Agreement (EULA) for HikeTracker**
 
 **Effective Date:** April 23, 2026
