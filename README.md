@@ -7,7 +7,7 @@ These documents are hosted using GitHub Pages to ensure transparency and easy ac
 ## Official Documents
 
 * **[Privacy Policy](https://darosmatteo.github.io/hiketracker-legal/privacy.html)**
-* **[End User License Agreement (EULA)](https://darosmatteo.github.io/hiketracker-legal/privacy.html)**
+* **[End User License Agreement (EULA)](https://darosmatteo.github.io/hiketracker-legal/eula.html)**
 
 ## Contact Information
 
